@@ -4,12 +4,6 @@
 
 I build systems that transform hours of technical effort into useful, satisfying tools. I'm also a game systems developer/game designer in my spare time.
 
-### ⚡ Engineering of Rigor
-
-Software Engineer and Architect focused on **systemic integrity and predictability**. I specialize in developing robust architectures using C# (.NET 10), Java 21 (Spring Boot), and TypeScript (NestJS). I prioritize technical conservatism, leveraging the determinism of strongly typed languages and the rigorous application of Clean Architecture and Domain-Driven Design (DDD).
-
----
-
 ### 🛠️ Tech Stack
 
 * **Languages:** C# (.NET 10), Java 21, TypeScript, JavaScript, SQL.
@@ -26,12 +20,6 @@ Software Engineer and Architect focused on **systemic integrity and predictabili
 
 Desenvolvo sistemas que transformam horas de esforço técnico em ferramentas úteis e satisfatórias. Também sou desenvolvedor de sistemas de jogos e game designer nas horas vagas.
 
-### ⚡ Engenharia de Rigor
-
-Engenheiro de Software e Arquiteto focado em **integridade sistêmica e previsibilidade**. Especializo-me no desenvolvimento de arquiteturas robustas utilizando C# (.NET 10), Java 21 (Spring Boot) e TypeScript (NestJS). Priorizo o conservadorismo técnico, aproveitando o determinismo de linguagens fortemente tipadas e a aplicação rigorosa de Clean Architecture e Domain-Driven Design (DDD).
-
----
-
 ### 🛠️ Tech Stack
 
 * **Linguagens:** C# (.NET 10), Java 21, TypeScript, JavaScript, SQL.
@@ -43,7 +31,6 @@ Engenheiro de Software e Arquiteto focado em **integridade sistêmica e previsib
 ---
 
 ### 🔗 Connect with me
-
 * **Email:** [joaopedroschulzrocha@gmail.com]()
 * **LinkedIn:** [linkedin.com/in/joaoschulz](https://www.linkedin.com/in/joaoschulz/)
 * **Game Dev (itch.io):** [itch.io/oschulz](https://www.google.com/search?q=https://oschulz.itch.io/)
